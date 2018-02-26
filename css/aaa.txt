@@ -1,0 +1,1 @@
+"css/btn-boy.png","css/btn-girl.png","css/choose-bg.png","css/choose-text.png","css/cover-bg.png","css/cover-text.png","css/loading.jpg","css/loading_cloud.png"
